@@ -59,7 +59,6 @@
             implementation by creating instances of both classes and displaying their shape 
             information.
             */
-
             ICircle circle = new Circle(2); 
             circle.DisplayShapeInfo();
             Console.WriteLine();
